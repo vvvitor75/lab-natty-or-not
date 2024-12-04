@@ -20,23 +20,25 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Novo ensino médio;)
 
 ## 📒 Descrição
 Breve descrição do seu projeto
-
+Criação de um vídeo com com 100% de IAs Generativas
 ## 🤖 Tecnologias Utilizadas
 Liste as IAs Generativas e outras ferramentas usadas
-
+ChatGPT para criação do texto e revisão ortográfica
+D-ID para criação do vídeo
 ## 🧐 Processo de Criação
 Descreva como você criou o conteúdo
-
+Texto foi criado a partir do ChatGPT
+No D-ID foi criado o avata, recuros de audio, plano de fundo e sincronização
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
-
+https://studio.d-id.com/share?id=24157a1059ba9880aa75847112327c5c&utm_source=copy 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Para atender a demanda solicitada no desafio e com os recursos disponíveis nas IAs Generativas no ambiente free o tempo do vídeo teve duração de 7 segundos, a partir do assunto, buscamos a geração do conteúdo e criação do vídeo.
 
 ### Exemplos e Insigths
 
